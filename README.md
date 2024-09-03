@@ -8,5 +8,4 @@ Magpie Client is an experimental 1.21 Minecraft client created with my vision an
 
 ## Credits
 - To all the creators of the mods used in this modpack
-- chrono_t for modifying his mod
-- And kiroshie for motivating me to finish this idea
+- And chrono_t for modifying his mod
