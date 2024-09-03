@@ -1,3 +1,3 @@
-/content/logo (1).png
+![banner](https://)
 # magpie_client
 Magpie Client is a experimental 1.21 client for minecraft
