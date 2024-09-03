@@ -4,4 +4,4 @@ Magpie Client is an experimental 1.21 Minecraft client created with my vision an
 ## Fonctionnality's
 1. Quality of life mods that does not exceed the cheat limit
 2. Shaders, Emissive Textures and Connected Textures are supported with Sodium, Indium, Iris and Continuity
-3. Every HUD mods are configured and works well together
+3. ![](https://github.com/JamesMinoucha/magpie_client/blob/main/assets/layers.svg) Every HUD mods are configured and works well together
